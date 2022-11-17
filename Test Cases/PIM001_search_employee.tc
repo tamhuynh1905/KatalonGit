@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PIM001_search_employee</name>
+   <tag>Week1, Regression</tag>
+   <comment></comment>
+   <testCaseGuid>60883cc8-3449-4484-b8c2-5f5ca432f925</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>15f7c783-7dde-4609-b0da-84765d1be446</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee16f5a3-889b-4b33-888e-08135583d0cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>670674c8-831e-4eb1-b097-76f751937a30</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>642718d7-ae91-45e9-938b-c92018241ac6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1f642cf-5bc8-4591-b688-cf7f10eb9646</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Employment Status'</defaultValue>
+      <description></description>
+      <id>15f7c783-7dde-4609-b0da-84765d1be446</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+   <variable>
+      <defaultValue>'Include'</defaultValue>
+      <description></description>
+      <id>ee16f5a3-889b-4b33-888e-08135583d0cb</id>
+      <masked>false</masked>
+      <name>include</name>
+   </variable>
+   <variable>
+      <defaultValue>'Full-Time Contract'</defaultValue>
+      <description></description>
+      <id>670674c8-831e-4eb1-b097-76f751937a30</id>
+      <masked>false</masked>
+      <name>statusValue</name>
+   </variable>
+   <variable>
+      <defaultValue>'Current and Past Employees'</defaultValue>
+      <description></description>
+      <id>642718d7-ae91-45e9-938b-c92018241ac6</id>
+      <masked>false</masked>
+      <name>includeValue</name>
+   </variable>
+   <variable>
+      <defaultValue>'(*) Records Found'</defaultValue>
+      <description></description>
+      <id>d1f642cf-5bc8-4591-b688-cf7f10eb9646</id>
+      <masked>false</masked>
+      <name>result</name>
+   </variable>
+</TestCaseEntity>

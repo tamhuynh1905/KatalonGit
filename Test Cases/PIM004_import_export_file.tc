@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PIM004_import_export_file</name>
+   <tag>Week4, Regression</tag>
+   <comment></comment>
+   <testCaseGuid>15b4ef70-2769-4506-9fb1-63600b064464</testCaseGuid>
+</TestCaseEntity>
